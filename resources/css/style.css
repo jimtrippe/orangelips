@@ -1,5 +1,7 @@
 body {
   background-image: url('http://orangelips.com/resources/images/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: "Archivo Narrow", sans-serif;
   font-weight: 300;
 }
